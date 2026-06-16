@@ -145,8 +145,8 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-11 | México | 1 - 0 | África do Sul |
-| 2026-06-11 | Coreia do Sul | 1 - 1 | Tchéquia |
+| 2026-06-11 | México | 2 - 0 | África do Sul |
+| 2026-06-11 | Coreia do Sul | 2 - 1 | Tchéquia |
 | 2026-06-18 | Tchéquia | 1 - 0 | África do Sul |
 | 2026-06-18 | México | 1 - 1 | Coreia do Sul |
 | 2026-06-24 | África do Sul | 0 - 1 | Coreia do Sul |
@@ -158,8 +158,8 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-12 | Canadá | 1 - 0 | Bósnia e Herzegovina |
-| 2026-06-13 | Catar | 0 - 2 | Suíça |
+| 2026-06-12 | Canadá | 1 - 1| Bósnia e Herzegovina |
+| 2026-06-13 | Catar | 1 - 1 | Suíça |
 | 2026-06-18 | Suíça | 2 - 0 | Bósnia e Herzegovina |
 | 2026-06-18 | Canadá | 2 - 0 | Catar |
 | 2026-06-24 | Bósnia e Herzegovina | 1 - 1 | Catar |
@@ -184,7 +184,7 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-12 | Estados Unidos | 1 - 1 | Paraguai |
+| 2026-06-12 | Estados Unidos | 3 - 1 | Paraguai |
 | 2026-06-13 | Austrália | 1 - 1 | Turquia |
 | 2026-06-19 | Turquia | 1 - 1 | Paraguai |
 | 2026-06-19 | Estados Unidos | 1 - 1 | Austrália |

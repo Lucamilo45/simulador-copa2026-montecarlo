@@ -33,7 +33,7 @@ groups:
     - {pt: "Costa do Marfim", ds: "Ivory Coast", conf: CAF}
     - {pt: "Curaçao",         ds: "Curaçao",     conf: CONCACAF}
   F:
-    - {pt: "Países Baixos", ds: "Netherlands", conf: UEFA}
+    - {pt: "Holanda", ds : "Netherlands", conf: UEFA}
     - {pt: "Japão",         ds: "Japan",       conf: AFC}
     - {pt: "Tunísia",       ds: "Tunisia",     conf: CAF}
     - {pt: "Suécia",        ds: "Sweden",      conf: UEFA}
