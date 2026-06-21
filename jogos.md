@@ -185,7 +185,7 @@
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
 | 2026-06-12 | Estados Unidos | 3 - 1 | Paraguai |
-| 2026-06-13 | Austrália | 1 - 1 | Turquia |
+| 2026-06-13 | Austrália |2 - 0 | Turquia |
 | 2026-06-19 | Turquia | 1 - 1 | Paraguai |
 | 2026-06-19 | Estados Unidos | 1 - 1 | Austrália |
 | 2026-06-25 | Estados Unidos | 1 - 1 | Turquia |
@@ -197,8 +197,8 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-14 | Alemanha | 3 - 0 | Curaçao |
-| 2026-06-14 | Costa do Marfim | 0 - 0 | Equador |
+| 2026-06-14 | Alemanha | 7 - 1 | Curaçao |
+| 2026-06-14 | Costa do Marfim | 1 - 0 | Equador |
 | 2026-06-20 | Alemanha | 1 - 0 | Costa do Marfim |
 | 2026-06-20 | Equador | 2 - 0 | Curaçao |
 | 2026-06-25 | Curaçao | 0 - 2 | Costa do Marfim |
@@ -210,7 +210,7 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-14 | Suécia | 1 - 1 | Tunísia |
+| 2026-06-14 | Suécia | 5 - 1 | Tunísia |
 | 2026-06-14 | Países Baixos | 1 - 1 | Japão |
 | 2026-06-20 | Países Baixos | 1 - 1 | Suécia |
 | 2026-06-20 | Tunísia | 0 - 1 | Japão |
@@ -275,8 +275,8 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-17 | Portugal | 1 - 0 | Rep. D. do Congo |
-| 2026-06-17 | Uzbequistão | 0 - 1 | Colômbia |
+| 2026-06-17 | Portugal | 1 - 1 | Rep. D. do Congo |
+| 2026-06-17 | Uzbequistão | 1 - 3 | Colômbia |
 | 2026-06-23 | Portugal | 1 - 0 | Uzbequistão |
 | 2026-06-23 | Colômbia | 1 - 0 | Rep. D. do Congo |
 | 2026-06-27 | Colômbia | 1 - 1 | Portugal |
@@ -288,8 +288,8 @@
 
 | Data | Time 1 | Placar | Time 2 |
 |------|--------|--------|--------|
-| 2026-06-17 | Inglaterra | 1 - 0 | Croácia |
-| 2026-06-17 | Gana | 1 - 1 | Panamá |
+| 2026-06-17 | Inglaterra | 4 - 2 | Croácia |
+| 2026-06-17 | Gana | 1 - 0 | Panamá |
 | 2026-06-23 | Inglaterra | 2 - 0 | Gana |
 | 2026-06-23 | Panamá | 0 - 2 | Croácia |
 | 2026-06-27 | Panamá | 0 - 2 | Inglaterra |
